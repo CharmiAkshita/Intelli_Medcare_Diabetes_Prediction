@@ -1,0 +1,1 @@
+# Intelli_Medcare_Diabetes_Prediction
